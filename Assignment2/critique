@@ -1,0 +1,8 @@
+The CommissionEmployee constructor doesn't invoke the Employee constructor via the super() call 
+(as called out in the instructions). Instead it access the base class instance variables directly: 
+    this.firstName = firstName; 
+    this.lastName = lastName; 
+    this.socialSecurityNumber = socialSecurityNumber;
+-5
+Grade: 65/70
+Otherwise, good work.
