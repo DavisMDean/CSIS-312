@@ -1,0 +1,3 @@
+Good work though your setTime method is broken but you don't call it anyway. 
+It is always best to remove broken or unused code from the source. -2
+Grade: 68/70
