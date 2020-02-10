@@ -1,0 +1,6 @@
+Good Davis but you are inconsistent in the PieceWorker class with respect to the wage instance variable. 
+It is declared as an int but the "getter" returns a double even though the "setter" takes an int.
+Realistically, it should be double since the wage per piece will probably need to take a fractional amount.
+-3
+Grade: 67/70
+Otherwise good work.
